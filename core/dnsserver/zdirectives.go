@@ -56,4 +56,5 @@ var Directives = []string{
 	"whoami",
 	"on",
 	"sign",
+	"k8s_gateway",
 }

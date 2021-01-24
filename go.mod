@@ -24,6 +24,7 @@ require (
 	github.com/opentracing/opentracing-go v1.2.0
 	github.com/openzipkin-contrib/zipkin-go-opentracing v0.4.5
 	github.com/openzipkin/zipkin-go v0.2.2
+	github.com/ori-edge/k8s_gateway v0.0.0-20210121093208-6338f35f0872
 	github.com/philhofer/fwd v1.0.0 // indirect
 	github.com/prometheus/client_golang v1.9.0
 	github.com/prometheus/client_model v0.2.0
